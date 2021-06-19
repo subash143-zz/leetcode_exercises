@@ -1,5 +1,5 @@
-// 
-// 
+// https://leetcode.com/problems/intersection-of-two-arrays-ii/
+// 350. Intersection of Two Arrays II
 
 public class Solution {
     public int[] Intersect(int[] nums1, int[] nums2) {
