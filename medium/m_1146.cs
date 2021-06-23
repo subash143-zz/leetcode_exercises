@@ -1,5 +1,5 @@
-// 
-// 
+// https://leetcode.com/problems/snapshot-array/
+// 1146. Snapshot Array
 
 public class SnapshotArray {
     Dictionary<int, Dictionary<int, int>> dict = new Dictionary<int, Dictionary<int, int>>();
